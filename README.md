@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EMAN
 
 ![](https://img.shields.io/badge/Algorithm-ItemCF-orange)
@@ -436,3 +437,7 @@ f 的预测兴趣度分别为:
 	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
 ```
 -->
+=======
+# book_Recommend
+test
+>>>>>>> temp
